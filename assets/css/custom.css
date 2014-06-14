@@ -1,0 +1,11 @@
+/**
+ * All your custom CSS should go into this file
+ */
+
+body {
+   padding-top: 15px;
+}
+
+
+.news-title { width:300px;}
+.news-text { width:300px;height:200px;}
